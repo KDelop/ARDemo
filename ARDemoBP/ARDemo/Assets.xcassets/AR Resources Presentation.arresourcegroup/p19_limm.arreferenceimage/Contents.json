@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "filename" : "p19_limm.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "unit" : "inches",
+    "width" : 4
+  }
+}

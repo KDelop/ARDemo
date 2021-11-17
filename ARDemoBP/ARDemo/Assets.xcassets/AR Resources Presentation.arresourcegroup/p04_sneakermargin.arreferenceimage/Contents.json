@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "filename" : "p04_sneakermargin.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "unit" : "inches",
+    "width" : 4
+  }
+}

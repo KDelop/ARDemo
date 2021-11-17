@@ -1,0 +1,77 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "art_beyonce.arreferenceimage"
+    },
+    {
+      "filename" : "art_yoon.arreferenceimage"
+    },
+    {
+      "filename" : "film_dani.arreferenceimage"
+    },
+    {
+      "filename" : "film_limm.arreferenceimage"
+    },
+    {
+      "filename" : "film_mcflyy.arreferenceimage"
+    },
+    {
+      "filename" : "frugal_money.arreferenceimage"
+    },
+    {
+      "filename" : "kids_knott.arreferenceimage"
+    },
+    {
+      "filename" : "kids_rabbithole.arreferenceimage"
+    },
+    {
+      "filename" : "music_kanye.arreferenceimage"
+    },
+    {
+      "filename" : "music_selena.arreferenceimage"
+    },
+    {
+      "filename" : "music_travis.arreferenceimage"
+    },
+    {
+      "filename" : "outside_frontdoor.arreferenceimage"
+    },
+    {
+      "filename" : "outside_shaq.arreferenceimage"
+    },
+    {
+      "filename" : "sports_jordan.arreferenceimage"
+    },
+    {
+      "filename" : "sports_rock.arreferenceimage"
+    },
+    {
+      "filename" : "sports_serena.arreferenceimage"
+    },
+    {
+      "filename" : "sports_spike.arreferenceimage"
+    },
+    {
+      "filename" : "sports_tonyhawk.arreferenceimage"
+    },
+    {
+      "filename" : "welcome_jordan1.arreferenceimage"
+    },
+    {
+      "filename" : "welcome_simmons.arreferenceimage"
+    },
+    {
+      "filename" : "welcome_stansmith.arreferenceimage"
+    },
+    {
+      "filename" : "welcome_tv.arreferenceimage"
+    },
+    {
+      "filename" : "welcome_uncdunks.arreferenceimage"
+    }
+  ]
+}

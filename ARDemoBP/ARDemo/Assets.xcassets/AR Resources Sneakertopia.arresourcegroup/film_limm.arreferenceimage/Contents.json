@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "film_limm.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "width" : 2
+  }
+}

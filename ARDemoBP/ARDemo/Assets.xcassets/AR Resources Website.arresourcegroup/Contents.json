@@ -1,0 +1,38 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "about.arreferenceimage"
+    },
+    {
+      "filename" : "artists.arreferenceimage"
+    },
+    {
+      "filename" : "entrance.arreferenceimage"
+    },
+    {
+      "filename" : "festival.arreferenceimage"
+    },
+    {
+      "filename" : "frugal.arreferenceimage"
+    },
+    {
+      "filename" : "gallery.arreferenceimage"
+    },
+    {
+      "filename" : "movies.arreferenceimage"
+    },
+    {
+      "filename" : "sports.arreferenceimage"
+    },
+    {
+      "filename" : "store.arreferenceimage"
+    },
+    {
+      "filename" : "welcomearea.arreferenceimage"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "p01_founders.arreferenceimage"
+    },
+    {
+      "filename" : "p02_about.arreferenceimage"
+    },
+    {
+      "filename" : "p03_market.arreferenceimage"
+    },
+    {
+      "filename" : "p04_sneakermargin.arreferenceimage"
+    },
+    {
+      "filename" : "p05_patent.arreferenceimage"
+    },
+    {
+      "filename" : "p06_frontdoor.arreferenceimage"
+    },
+    {
+      "filename" : "p07_shaq.arreferenceimage"
+    },
+    {
+      "filename" : "p08_uncdunks.arreferenceimage"
+    },
+    {
+      "filename" : "p09_welcometv.arreferenceimage"
+    },
+    {
+      "filename" : "p10_serena.arreferenceimage"
+    },
+    {
+      "filename" : "p11_jordan.arreferenceimage"
+    },
+    {
+      "filename" : "p12_tonyhawk.arreferenceimage"
+    },
+    {
+      "filename" : "p13_knottwall.arreferenceimage"
+    },
+    {
+      "filename" : "p14_rabbithole.arreferenceimage"
+    },
+    {
+      "filename" : "p15_travis.arreferenceimage"
+    },
+    {
+      "filename" : "p16_selena.arreferenceimage"
+    },
+    {
+      "filename" : "p17_kanye.arreferenceimage"
+    },
+    {
+      "filename" : "p18_danileigh.arreferenceimage"
+    },
+    {
+      "filename" : "p19_limm.arreferenceimage"
+    },
+    {
+      "filename" : "p20_mcflyy.arreferenceimage"
+    },
+    {
+      "filename" : "p21_yoon.arreferenceimage"
+    },
+    {
+      "filename" : "p22_weeks.arreferenceimage"
+    },
+    {
+      "filename" : "p23_frugal.arreferenceimage"
+    }
+  ]
+}
